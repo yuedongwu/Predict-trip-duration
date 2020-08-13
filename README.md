@@ -18,8 +18,7 @@
     A1. Create a subdirectory and place all data and your software/report here.
     
     A2. Use a web browser to visit the New York City Taxi and Limousine Commission webpage for
-    information on the data:
-    http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+    information on the [data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
     
     A3. Download the January 2016 Yellow Cab data set (1.6 GBytes, 10 million rows, in CSV
     format) found at this link:
