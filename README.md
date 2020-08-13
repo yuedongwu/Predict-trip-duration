@@ -21,8 +21,8 @@
     information on the [data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
     
     A3. Download the January 2016 Yellow Cab data set (1.6 GBytes, 10 million rows, in CSV
-    format) found at this link:
-    https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2016-01.csv
+    format) found at this [link]:
+    (https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2016-01.csv)
     
     A4. Download a PDF file describing the data set schema:
     http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
