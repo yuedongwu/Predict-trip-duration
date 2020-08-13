@@ -21,8 +21,7 @@
     information on the [data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
     
     A3. Download the January 2016 Yellow Cab data set (1.6 GBytes, 10 million rows, in CSV
-    format) found at this [link]:
-    (https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2016-01.csv)
+    format) found at this [link](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2016-01.csv).
     
     A4. Download a PDF file describing the data set schema:
     http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
@@ -44,7 +43,7 @@
     for each set. Each input row should have a random chance to being assigned to each of the sets following
     those proportions. Name your three resulting files as data-training.csv, data-validation.csv, and data-test.csv. 
 ## Build model and train
-    (link to notebook: https://github.com/wybeyond-drame/Predict-trip-duration/blob/master/Predict%20trip%20duration.ipynb)
+    link to [notebook](https://github.com/wybeyond-drame/Predict-trip-duration/blob/master/Predict%20trip%20duration.ipynb)
     C1. Select features by looking through the data and choosing the features that you think will be
     able to predict the time duration of each trip.
     NOTE: It is important that you use only those features that are available to your algorithm when
